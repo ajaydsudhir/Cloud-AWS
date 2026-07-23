@@ -5,7 +5,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | DAY | TASK | STATUS |
 | :-: | :-: | :-: |
 | 1 | [Create Key Pair](./days/1.md) | ✅ |
-| 2 | Create Security Group | ☐ |
+| 2 | [Create Security Group](./days/2.md) | ✅ |
 | 3 | Create Subnet | ☐ |
 | 4 | Enable Versioning for S3 Bucket | ☐ |
 | 5 | Create GP3 Volume | ☐ |
