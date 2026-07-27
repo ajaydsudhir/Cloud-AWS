@@ -8,7 +8,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 2 | [Create Security Group](./days/2.md) | ✅ |
 | 3 | [Create Subnet](./days/3.md) | ✅ |
 | 4 | [Enable Versioning for S3 Bucket](./days/4.md) | ✅ |
-| 5 | Create GP3 Volume | ☐ |
+| 5 | [Create GP3 Volume](./days/5.md) | ✅ |
 | 6 | Launch EC2 Instance | ☐ |
 | 7 | Change EC2 Instance Type | ☐ |
 | 8 | Enable Stop Protection for EC2 Instance | ☐ |
