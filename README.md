@@ -11,7 +11,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 5 | [Create GP3 Volume](./days/5.md) | ✅ |
 | 6 | [Launch EC2 Instance](./days/6.md) | ✅ |
 | 7 | [Change EC2 Instance Type](./days/7.md) | ✅ |
-| 8 | Enable Stop Protection for EC2 Instance | ☐ |
+| 8 | [Enable Stop Protection for EC2 Instance](./days/8.md) | ✅ |
 | 9 | Enable Termination Protection for EC2 Instance | ☐ |
 | 10 | Attach Elastic IP to EC2 Instance | ☐ |
 | 11 | Attach Elastic Network Interface to EC2 Instance | ☐ |
