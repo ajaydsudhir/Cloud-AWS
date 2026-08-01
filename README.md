@@ -13,7 +13,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 7 | [Change EC2 Instance Type](./days/7.md) | ✅ |
 | 8 | [Enable Stop Protection for EC2 Instance](./days/8.md) | ✅ |
 | 9 | [Enable Termination Protection for EC2 Instance](./days/9.md) | ✅ |
-| 10 | Attach Elastic IP to EC2 Instance | ☐ |
+| 10 | [Attach Elastic IP to EC2 Instance](./days/10.md) | ✅ |
 | 11 | Attach Elastic Network Interface to EC2 Instance | ☐ |
 | 12 | Attach Volume to EC2 Instance | ☐ |
 | 13 | Create AMI from EC2 Instance | ☐ |
