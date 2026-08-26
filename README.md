@@ -17,7 +17,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 11 | [Attach Elastic Network Interface to EC2 Instance](./days/11.md) | ✅ |
 | 12 | [Attach Volume to EC2 Instance](./days/12.md) | ✅ |
 | 13 | [Create AMI from EC2 Instance](./days/13.md) | ✅ |
-| 14 | Terminate EC2 Instance | ☐ |
+| 14 | [Terminate EC2 Instance](./days/14.md) | ✅ |
 | 15 | Create Volume Snapshot | ☐ |
 | 16 | Create IAM User | ☐ |
 | 17 | Create IAM Group | ☐ |
