@@ -20,7 +20,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 14 | [Terminate EC2 Instance](./days/14.md) | ✅ |
 | 15 | [Create Volume Snapshot](./days/15.md) | ✅ |
 | 16 | [Create IAM User](./days/16.md) | ✅ |
-| 17 | Create IAM Group | ☐ |
+| 17 | [Create IAM Group](./days/17.md) | ✅ |
 | 18 | Create Read-Only IAM Policy for EC2 Console Access | ☐ |
 | 19 | Attach IAM Policy to IAM User | ☐ |
 | 20 | Create IAM Role for EC2 with Policy Attachment | ☐ |
