@@ -23,7 +23,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 17 | [Create IAM Group](./days/17.md) | ✅ |
 | 18 | [Create Read-Only IAM Policy for EC2 Console Access](./days/18.md) | ✅ |
 | 19 | [Attach IAM Policy to IAM User](./days/19.md) | ✅ |
-| 20 | Create IAM Role for EC2 with Policy Attachment | ☐ |
+| 20 | [Create IAM Role for EC2 with Policy Attachment](./days/20.md) | ✅ |
 | 21 | Setting Up an EC2 Instance with an Elastic IP for Application Hosting | ☐ |
 | 22 | Configuring Secure SSH Access to an EC2 Instance | ☐ |
 | 23 | Data Migration Between S3 Buckets Using AWS CLI | ☐ |
