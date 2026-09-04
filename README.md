@@ -26,7 +26,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 20 | [Create IAM Role for EC2 with Policy Attachment](./days/20.md) | ✅ |
 | 21 | [Setting Up an EC2 Instance with an Elastic IP for Application Hosting](./days/21.md) | ✅ |
 | 22 | [Configuring Secure SSH Access to an EC2 Instance](./days/22.md) | ✅ |
-| 23 | Data Migration Between S3 Buckets Using AWS CLI | ☐ |
+| 23 | [Data Migration Between S3 Buckets Using AWS CLI](./days/23.md) | ✅ |
 | 24 | Setting Up an Application Load Balancer for an EC2 Instance | ☐ |
 | 25 | Setting Up an EC2 Instance and CloudWatch Alarm | ☐ |
 | 26 | Configuring an EC2 Instance as a Web Server with Nginx | ☐ |
