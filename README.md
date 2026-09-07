@@ -28,7 +28,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 22 | [Configuring Secure SSH Access to an EC2 Instance](./days/22.md) | ✅ |
 | 23 | [Data Migration Between S3 Buckets Using AWS CLI](./days/23.md) | ✅ |
 | 24 | [Setting Up an Application Load Balancer for an EC2 Instance](./days/24.md) | ✅ |
-| 25 | Setting Up an EC2 Instance and CloudWatch Alarm | ☐ |
+| 25 | [Setting Up an EC2 Instance and CloudWatch Alarm](./days/25.md) | ✅ |
 | 26 | Configuring an EC2 Instance as a Web Server with Nginx | ☐ |
 | 27 | Configuring a Public VPC with an EC2 Instance for Internet Access | ☐ |
 | 28 | Creating a Private ECR Repository | ☐ |
