@@ -30,7 +30,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 24 | [Setting Up an Application Load Balancer for an EC2 Instance](./days/24.md) | ✅ |
 | 25 | [Setting Up an EC2 Instance and CloudWatch Alarm](./days/25.md) | ✅ |
 | 26 | [Configuring an EC2 Instance as a Web Server with Nginx](./days/26.md) | ✅ |
-| 27 | Configuring a Public VPC with an EC2 Instance for Internet Access | ☐ |
+| 27 | [Configuring a Public VPC with an EC2 Instance for Internet Access](./days/27.md) | ✅ |
 | 28 | Creating a Private ECR Repository | ☐ |
 | 29 | Establishing Secure Communication Between Public and Private VPCs via VPC Peering | ☐ |
 | 30 | Enable Internet Access for Private EC2 using NAT Instance | ☐ |
