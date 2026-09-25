@@ -32,7 +32,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 26 | [Configuring an EC2 Instance as a Web Server with Nginx](./days/26.md) | ✅ |
 | 27 | [Configuring a Public VPC with an EC2 Instance for Internet Access](./days/27.md) | ✅ |
 | 28 | [Creating a Private ECR Repository](./days/28.md) | ✅ |
-| 29 | Establishing Secure Communication Between Public and Private VPCs via VPC Peering | ☐ |
+| 29 | [Establishing Secure Communication Between Public and Private VPCs via VPC Peering](./days/29.md) | ✅ |
 | 30 | Enable Internet Access for Private EC2 using NAT Instance | ☐ |
 | 31 | Configuring a Private RDS Instance for Application Development | ☐ |
 | 32 | Snapshot and Restoration of an RDS Instance | ☐ |
