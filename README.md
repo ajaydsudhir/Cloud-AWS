@@ -36,7 +36,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 30 | [Enable Internet Access for Private EC2 using NAT Instance](./days/30.md) | ✅ |
 | 31 | [Configuring a Private RDS Instance for Application Development](./days/31.md) | ✅ |
 | 32 | [Snapshot and Restoration of an RDS Instance](./days/32.md) | ✅ |
-| 33 | Create a Lambda Function | ☐ |
+| 33 | [Create a Lambda Function](./days/33.md) | ✅ |
 | 34 | Create a Lambda Function Using CLI | ☐ |
 | 35 | Deploying and Managing Applications on AWS | ☐ |
 | 36 | Load Balancing EC2 Instances with Application Load Balancer | ☐ |
