@@ -37,7 +37,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 31 | [Configuring a Private RDS Instance for Application Development](./days/31.md) | ✅ |
 | 32 | [Snapshot and Restoration of an RDS Instance](./days/32.md) | ✅ |
 | 33 | [Create a Lambda Function](./days/33.md) | ✅ |
-| 34 | Create a Lambda Function Using CLI | ☐ |
+| 34 | [Create a Lambda Function Using CLI](./days/34.md) | ✅ |
 | 35 | Deploying and Managing Applications on AWS | ☐ |
 | 36 | Load Balancing EC2 Instances with Application Load Balancer | ☐ |
 | 37 | Managing EC2 Access with S3 Role-based Permissions | ☐ |
