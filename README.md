@@ -39,7 +39,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 33 | [Create a Lambda Function](./days/33.md) | ✅ |
 | 34 | [Create a Lambda Function Using CLI](./days/34.md) | ✅ |
 | 35 | [Deploying and Managing Applications on AWS](./days/35.md) | ✅ |
-| 36 | Load Balancing EC2 Instances with Application Load Balancer | ☐ |
+| 36 | [Load Balancing EC2 Instances with Application Load Balancer](./days/36.md) | ✅ |
 | 37 | Managing EC2 Access with S3 Role-based Permissions | ☐ |
 | 38 | Deploying Containerized Applications with Amazon ECS | ☐ |
 | 39 | Hosting a Static Website on AWS S3 | ☐ |
