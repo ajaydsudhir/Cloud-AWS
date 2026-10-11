@@ -43,7 +43,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 37 | [Managing EC2 Access with S3 Role-based Permissions](./days/37.md) | ✅ |
 | 38 | [Deploying Containerized Applications with Amazon ECS](./days/38.md) | ✅ |
 | 39 | [Hosting a Static Website on AWS S3](./days/39.md) | ✅ |
-| 40 | Troubleshooting Internet Accessibility for an EC2-Hosted Application | ☐ |
+| 40 | [Troubleshooting Internet Accessibility for an EC2-Hosted Application](./days/40.md) | ✅ |
 | 41 | Securing Data with AWS KMS | ☐ |
 | 42 | Building and Managing NoSQL Databases with AWS DynamoDB | ☐ |
 | 43 | Scaling and Managing Kubernetes Clusters with Amazon EKS | ☐ |
