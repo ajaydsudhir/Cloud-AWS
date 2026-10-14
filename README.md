@@ -46,7 +46,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 40 | [Troubleshooting Internet Accessibility for an EC2-Hosted Application](./days/40.md) | ✅ |
 | 41 | [Securing Data with AWS KMS](./days/41.md) | ✅ |
 | 42 | [Building and Managing NoSQL Databases with AWS DynamoDB](./days/42.md) | ✅ |
-| 43 | Scaling and Managing Kubernetes Clusters with Amazon EKS | ☐ |
+| 43 | [Scaling and Managing Kubernetes Clusters with Amazon EKS](./days/43.md) | ✅ |
 | 44 | Implementing Auto Scaling for High Availability in AWS | ☐ |
 | 45 | Configure NAT Gateway for Internet Access in a Private VPC | ☐ |
 | 46 | Event-Driven Processing with Amazon S3 and Lambda | ☐ |
