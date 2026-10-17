@@ -49,7 +49,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 43 | [Scaling and Managing Kubernetes Clusters with Amazon EKS](./days/43.md) | ✅ |
 | 44 | [Implementing Auto Scaling for High Availability in AWS](./days/44.md) | ✅ |
 | 45 | [Configure NAT Gateway for Internet Access in a Private VPC](./days/45.md) | ✅ |
-| 46 | Event-Driven Processing with Amazon S3 and Lambda | ☐ |
+| 46 | [Event-Driven Processing with Amazon S3 and Lambda](./days/46.md) | ✅ |
 | 47 | Integrating AWS SQS and SNS for Reliable Messaging | ☐ |
 | 48 | Automating Infrastructure Deployment with AWS CloudFormation | ☐ |
 | 49 | Centralized Audit Logging with VPC Peering | ☐ |
