@@ -51,6 +51,6 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 45 | [Configure NAT Gateway for Internet Access in a Private VPC](./days/45.md) | ✅ |
 | 46 | [Event-Driven Processing with Amazon S3 and Lambda](./days/46.md) | ✅ |
 | 47 | [Integrating AWS SQS and SNS for Reliable Messaging](./days/47.md) | ✅ |
-| 48 | Automating Infrastructure Deployment with AWS CloudFormation | ☐ |
+| 48 | [Automating Infrastructure Deployment with AWS CloudFormation](./days/48.md) | ✅ |
 | 49 | Centralized Audit Logging with VPC Peering | ☐ |
 | 50 | Expanding EC2 Instance Storage for Development Needs | ☐ |
