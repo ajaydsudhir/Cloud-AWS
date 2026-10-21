@@ -2,7 +2,9 @@
 
 My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kodekloud.com/100-days-of-cloud) with 50 hands-on tasks covering the fundamentals of AWS cloud computing.
 
-| DAY | TASK | STATUS |
+![AJAY D SUDHIR - 50 Days of AWS](AJAY_D_SUDHIR_50_Days_of_AWS.jpg)
+
+| **DAY** | **TASK** | **STATUS** |
 | :-: | :-: | :-: |
 | 1 | [Create Key Pair](./days/1.md) | ✅ |
 | 2 | [Create Security Group](./days/2.md) | ✅ |
