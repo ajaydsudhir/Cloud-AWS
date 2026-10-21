@@ -53,4 +53,4 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - AWS](https://kod
 | 47 | [Integrating AWS SQS and SNS for Reliable Messaging](./days/47.md) | ✅ |
 | 48 | [Automating Infrastructure Deployment with AWS CloudFormation](./days/48.md) | ✅ |
 | 49 | [Centralized Audit Logging with VPC Peering](./days/49.md) | ✅ |
-| 50 | Expanding EC2 Instance Storage for Development Needs | ☐ |
+| 50 | [Expanding EC2 Instance Storage for Development Needs](./days/50.md) | ✅ |
